@@ -1,2 +1,2 @@
-public class printNumbers {
+public class printNumbers  {
 }
