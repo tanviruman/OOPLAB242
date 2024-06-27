@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP-LAB-242.iml" filepath="$PROJECT_DIR$/OOP-LAB-242.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB-3/bookstore/bookstore.iml" filepath="$PROJECT_DIR$/LAB-3/bookstore/bookstore.iml" />
       <module fileurl="file://$PROJECT_DIR$/LAB-1/javatpointlab1/javatpointlab1.iml" filepath="$PROJECT_DIR$/LAB-1/javatpointlab1/javatpointlab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
     </modules>
   </component>
 </project>
