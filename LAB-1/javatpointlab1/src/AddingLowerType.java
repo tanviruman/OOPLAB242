@@ -1,7 +1,7 @@
 public class AddingLowerType {
     public static void main(String[] args){
-        byte a=10;
-        byte b=10;
+        byte a=20;
+        byte b=20;
 //byte c=a+b;//Compile Time Error: because a+b=20 will be int
         byte c=(byte)(a+b);
         System.out.println(c);
