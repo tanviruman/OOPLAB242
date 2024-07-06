@@ -2,7 +2,7 @@ public class emloyee {
     double salary = 500000;
 }
 
-class programmer extends employee{
+class programmer extends emloyee{
 
     int bonus=100000;
 
@@ -11,12 +11,9 @@ class programmer extends employee{
         programmer p = new programmer();
 
         System.out.println("Salary="+p.salary);
-
+        System.out.println("Bonus="+p.bonus);
 
 
     }
-
-
-
 
 }
