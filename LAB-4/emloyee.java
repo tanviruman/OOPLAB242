@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class emloyee {
+public class emloyee {
+    double sa
 }
