@@ -8,7 +8,9 @@ class programmer extends employee{
 
     public static void main(String[] args) {
 
-        
+        programmer p = new programmer();
+
+        System.out.println("Salary="+p.salary);
 
 
 
