@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Animal {
+public class Animal {
+    void eat
 }
