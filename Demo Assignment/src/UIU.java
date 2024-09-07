@@ -20,9 +20,10 @@ class CSE extends Department {
     private Course[] courses;
 
     public CSE() {
-        courses = new Course[2];
+        courses = new Course[3];
         courses[0] = new Course("CSE 1115", "OOP", 3.0);
         courses[1] = new Course("CSE 1116", "OOP Lab", 1.0);
+        courses[2] = new Course("CSE 1116", "OOP Lab", 1.0);
     }
 
     @Override
