@@ -10,7 +10,7 @@ public class Course {
         this.credits = credits;
     }
 }
-
+ok
 // create Department
 
 // create CSE subclass
