@@ -12,12 +12,12 @@ public class Student {
         this.cgpa = cgpa;
     }
 
-    void display(){
+    void display(){                             
         System.out.println("Name: " + name);
         System.out.println("ID: " + id);
         System.out.println("cgpa: " + cgpa);
     }
-}
+} 
 class Test{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

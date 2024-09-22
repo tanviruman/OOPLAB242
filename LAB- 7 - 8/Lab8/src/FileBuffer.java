@@ -8,7 +8,7 @@ public class FileBuffer {
             FileWriter file = new FileWriter("Files/Test");
             BufferedWriter filewrite = new BufferedWriter(file);
 
-            filewrite.write("abcd\n");
+            filewrite.write("abcdvvv\n");
            // filewrite.newLine();
             filewrite.write("12454\n");
             filewrite.write(97 + " ");
